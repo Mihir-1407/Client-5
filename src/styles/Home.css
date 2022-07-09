@@ -1,0 +1,76 @@
+.facilities{
+  margin: 25px;
+}
+
+.facilitiesTwoBox {
+  display: flex;
+  justify-content: center;
+  margin: 28px;
+}
+
+.facilitiesBox ul li {
+  list-style-type: none;
+  font-size: 2rem;
+}
+
+
+.facilitiesBox {
+  padding: 10px;
+  border: 2px solid grey;
+}
+
+.facilitiesBoxRight {
+  padding: 30px;
+  width: 20vw;
+  font-family: monospace;
+}
+
+.about {
+  text-align: center;
+  margin: 50px 10px;
+}
+
+.about div {
+  font-size: 1.5rem;
+  padding: 20px 60px;
+}
+
+.ourHostels {
+  margin-top: 10px;
+}
+
+#services {
+  margin: 10px;
+  display: flex;
+}
+
+#services .box {
+  padding: 40px 40px;
+  margin: 2px 6px;
+  border-radius: 20px;
+  background: #585151;
+  color: white;
+  border: 3px solid #a61b1b;
+}
+
+#services .box img {
+  height: 180px;
+  width: 180px;
+  display: block;
+  margin: auto;
+}
+
+#services .box p {
+  font-family: sans-serif;
+}
+
+.center {
+  margin: auto;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
