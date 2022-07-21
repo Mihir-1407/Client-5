@@ -55,25 +55,25 @@ const Home = () => {
             <div className="ourHostels">
                 <h1>Our Hostels</h1>
                 <div id="services">
-                    <div class="box">
+                    <div className="box">
                         <img src="https://m.media-amazon.com/images/I/610xVzJWA1L._AC_UL480_FMwebp_QL65_.jpg" alt="" />
-                        <h2 class="h-secondary">Hostel 1</h2>
-                        <p class="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae sint fuga impedit maiores repellat dignissimos perspiciatis explicabo sit iste. Doloribus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nobis voluptates molestias! Optio corporis praesentium asperiores repellendus repudiandae facere at a nesciunt officia?</p>
+                        <h2 className="h-secondary">Hostel 1</h2>
+                        <p className="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae sint fuga impedit maiores repellat dignissimos perspiciatis explicabo sit iste. Doloribus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nobis voluptates molestias! Optio corporis praesentium asperiores repellendus repudiandae facere at a nesciunt officia?</p>
                     </div>
-                    <div class="box">
+                    <div className="box">
                         <img src="https://m.media-amazon.com/images/I/610xVzJWA1L._AC_UL480_FMwebp_QL65_.jpg" alt="" />
-                        <h2 class="h-secondary">Hostel 2</h2>
-                        <p class="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae sint fuga impedit maiores repellat dignissimos perspiciatis explicabo sit iste. Doloribus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nobis voluptates molestias! Optio corporis praesentium asperiores repellendus repudiandae facere at a nesciunt officia?</p>
+                        <h2 className="h-secondary">Hostel 2</h2>
+                        <p className="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae sint fuga impedit maiores repellat dignissimos perspiciatis explicabo sit iste. Doloribus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nobis voluptates molestias! Optio corporis praesentium asperiores repellendus repudiandae facere at a nesciunt officia?</p>
                     </div>
-                    <div class="box">
+                    <div className="box">
                         <img src="https://m.media-amazon.com/images/I/610xVzJWA1L._AC_UL480_FMwebp_QL65_.jpg" alt="" />
-                        <h2 class="h-secondary">Hostel 3</h2>
-                        <p class="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae sint fuga impedit maiores repellat dignissimos perspiciatis explicabo sit iste. Doloribus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nobis voluptates molestias! Optio corporis praesentium asperiores repellendus repudiandae facere at a nesciunt officia?</p>
+                        <h2 className="h-secondary">Hostel 3</h2>
+                        <p className="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae sint fuga impedit maiores repellat dignissimos perspiciatis explicabo sit iste. Doloribus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nobis voluptates molestias! Optio corporis praesentium asperiores repellendus repudiandae facere at a nesciunt officia?</p>
                     </div>
-                    <div class="box">
+                    <div className="box">
                         <img src="https://m.media-amazon.com/images/I/610xVzJWA1L._AC_UL480_FMwebp_QL65_.jpg" alt="" />
-                        <h2 class="h-secondary">Hostel 4</h2>
-                        <p class="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae sint fuga impedit maiores repellat dignissimos perspiciatis explicabo sit iste. Doloribus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nobis voluptates molestias! Optio corporis praesentium asperiores repellendus repudiandae facere at a nesciunt officia?</p>
+                        <h2 className="h-secondary">Hostel 4</h2>
+                        <p className="center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae sint fuga impedit maiores repellat dignissimos perspiciatis explicabo sit iste. Doloribus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam nobis voluptates molestias! Optio corporis praesentium asperiores repellendus repudiandae facere at a nesciunt officia?</p>
                     </div>
                 </div>
                 
@@ -85,7 +85,7 @@ const Home = () => {
             </div>
 
 
-            <div class="footer">
+            <div className="footer">
                 Copyright &copy; www.thewizards.com All Rights reserved!
             </div>
 

@@ -1,11 +1,11 @@
-import React from 'react'
+  import React from "react";
 
 const Rooms = () => {
-  return (
-    <div>
-        <h1>Rooms</h1>
-    </div>
-  )
-}
+    return (
+        <div>
+            <h1>Rooms</h1>
+        </div>
+    );
+};
 
-export default Rooms
+export default Rooms;

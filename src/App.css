@@ -4,20 +4,20 @@
     box-sizing: border-box
 }
 
-.container {
+.navbar {
     padding: 20px 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.container a {
+.navbar a {
     text-decoration: none;
     color: black;
     font-size: 1.3rem;
 }
 
-.container span+span {
+.navbar span+span {
     margin-left: 20px;
 }
 
